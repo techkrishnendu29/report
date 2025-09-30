@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+geemap
+earthengine-api
+requests
+reportlab
